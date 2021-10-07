@@ -21,14 +21,12 @@ const Nav = () => {
 
     return (
         <div className="Nav">
-            <h3>Nav</h3>
+            <h3 className="logo">Nav</h3>
             <ul className="navlinks">
                 {
                     navLinks.map((link) => {
                         return(
-                            <li>
-                                <Link to={link.href}>{link.name}</Link>
-                            </li>
+                                <Link className="link" to={link.href}>{link.name}</Link>
                         )
                     })
                 }

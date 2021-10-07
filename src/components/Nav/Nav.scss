@@ -1,0 +1,23 @@
+.Nav{
+    //border: red solid 2px;
+    width: 50%;
+    @include flex;
+    .logo{
+        padding: 1em;
+        margin: 1em;
+        background: #333;
+        border-radius: 20px;
+    }
+    .navlinks{
+        @include flex;
+        width: 40%;
+        .link{
+            color: $primaryColor;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .link:hover{
+            color: $greenColor;
+        }
+    }
+}
