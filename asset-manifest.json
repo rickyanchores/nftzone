@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.bd9c78d5.chunk.css",
-    "main.js": "/static/js/main.8cf9a9b0.chunk.js",
-    "main.js.map": "/static/js/main.8cf9a9b0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f6c4844c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f6c4844c.js.map",
-    "static/js/2.18e58c91.chunk.js": "/static/js/2.18e58c91.chunk.js",
-    "static/js/2.18e58c91.chunk.js.map": "/static/js/2.18e58c91.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.bd9c78d5.chunk.css.map": "/static/css/main.bd9c78d5.chunk.css.map",
-    "static/js/2.18e58c91.chunk.js.LICENSE.txt": "/static/js/2.18e58c91.chunk.js.LICENSE.txt"
+    "main.css": "/nftzone/static/css/main.bd9c78d5.chunk.css",
+    "main.js": "/nftzone/static/js/main.8cf9a9b0.chunk.js",
+    "main.js.map": "/nftzone/static/js/main.8cf9a9b0.chunk.js.map",
+    "runtime-main.js": "/nftzone/static/js/runtime-main.027c97e6.js",
+    "runtime-main.js.map": "/nftzone/static/js/runtime-main.027c97e6.js.map",
+    "static/js/2.18e58c91.chunk.js": "/nftzone/static/js/2.18e58c91.chunk.js",
+    "static/js/2.18e58c91.chunk.js.map": "/nftzone/static/js/2.18e58c91.chunk.js.map",
+    "index.html": "/nftzone/index.html",
+    "static/css/main.bd9c78d5.chunk.css.map": "/nftzone/static/css/main.bd9c78d5.chunk.css.map",
+    "static/js/2.18e58c91.chunk.js.LICENSE.txt": "/nftzone/static/js/2.18e58c91.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f6c4844c.js",
+    "static/js/runtime-main.027c97e6.js",
     "static/js/2.18e58c91.chunk.js",
     "static/css/main.bd9c78d5.chunk.css",
     "static/js/main.8cf9a9b0.chunk.js"
